@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+deep-translator
+srt
+charset-normalizer
+Flask
+gunicorn
